@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Wafer Yield Optimization 🚀
 
 A comprehensive data science project for semiconductor manufacturing yield prediction and anomaly detection, designed to showcase advanced analytics capabilities for manufacturing optimization.
@@ -150,3 +151,6 @@ This project demonstrates:
 *Demonstrating advanced analytics capabilities in semiconductor manufacturing*
 
 **Ready for Production Deployment** 🚀
+=======
+# wafer-yield
+>>>>>>> a520aaf9ab888e56e17f102478ca76ca8361e02c
