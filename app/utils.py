@@ -119,7 +119,7 @@ def preprocess_data(data, method='knn'):
     """
 
     from_utils = __name__ == "__main__"
-    secom_cleaned = 'data/processed/secom_cleaned_utils.csv' if from_utils else 'data/processed/secom_cleaned.csv'
+    secom_cleaned = 'data/processed/secom_preprocessed_data_utils.csv' if from_utils else 'data/processed/secom_preprocessed_data.csv'
     
     print(f"\n= Preprocessing data using '{method}' imputation...")
     
